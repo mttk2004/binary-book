@@ -9,6 +9,6 @@
 	<title>Document</title>
 </head>
 <body>
-	Home
+	Not found
 </body>
 </html>
